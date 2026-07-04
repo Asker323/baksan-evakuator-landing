@@ -25,7 +25,6 @@
 ![Netlify](https://shields.io)
 ![Google](https://shields.io)
 ![Yandex](https://shields.io)
-
 ---
 *Проект разработан в рамках формирования портфолио и практики развертывания production-ready веб-ресурсов с нуля.*
 
