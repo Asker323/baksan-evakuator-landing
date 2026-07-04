@@ -19,12 +19,9 @@
 
 ### 🛠️ Технологический стек:
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![TailwindCSS](https://shields.io)
-![Netlify](https://shields.io)
-![Google](https://shields.io)
-![Yandex](https://shields.io)
+* 🌐 **Frontend:** HTML5, CSS3, Tailwind CSS (CDN)
+* ☁️ **Деплой & Хостинг:** Netlify Cloud
+* 📊 **SEO & Аналитика:** Google Search Console, Яндекс.Бизнес
 ---
 *Проект разработан в рамках формирования портфолио и практики развертывания production-ready веб-ресурсов с нуля.*
 
