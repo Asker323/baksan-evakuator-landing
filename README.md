@@ -19,14 +19,15 @@
 - **Маркетинговая интеграция:** Сгенерирован и привязан QR-код для физических носителей (визитки, брендирование спецтехники), а в профиль геосервисов интегрированы реальные фото техники для повышения конверсии.
 - 
 ## 🛠 Технологический стек:
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![TailwindCSS](https://shields.io)
-![Netlify](https://shields.io)
-![Google](https://shields.io)
-![Yandex](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Yandex Maps](https://img.shields.io/badge/Yandex%20Maps-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 *Проект разработан в рамках формирования портфолио и практики развертывания production-ready веб-ресурсов с нуля.*
+
 
