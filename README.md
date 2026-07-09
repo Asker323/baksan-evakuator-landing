@@ -27,6 +27,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
+## 🛠️ Как запустить проект локально
+
+Чтобы развернуть веб-сайт службы эвакуации на своем компьютере, выполните следующие шаги:
+
+1. **Клонируйте репозиторий:**
+   ```bash
+   git clone https://github.com/Asker323/baksan-evakuator-landing
+   ```
+
+2. **Перейдите в папку проекта:**
+   ```bash
+   cd baksan-evakuator-landing
+   ```
+
+3. **Запустите сайт:**
+   Просто откройте файл `index.html` в любом современном браузере (двойным кликом мыши или перетаскиванием в окно браузера).
+   
 *Проект разработан в рамках формирования портфолио и практики развертывания production-ready веб-ресурсов с нуля.*
 
 
